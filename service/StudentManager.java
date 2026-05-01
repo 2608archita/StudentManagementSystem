@@ -8,7 +8,6 @@ import java.util.List;
 
 public class StudentManager implements StudentService {
     
-    // Demonstrate collections
     private List<Student> students;
 
     public StudentManager() {
