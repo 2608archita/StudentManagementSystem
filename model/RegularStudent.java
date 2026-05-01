@@ -6,7 +6,6 @@ public class RegularStudent extends Student {
         super(id, name, marks);
     }
 
-    // Overriding abstract method to demonstrate polymorphism
     @Override
     public void displayPerformance() {
         String grade;
