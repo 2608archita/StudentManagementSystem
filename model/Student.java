@@ -35,7 +35,6 @@ public abstract class Student {
         this.marks = marks;
     }
 
-    // Abstract method demonstrating abstraction and polymorphism
     public abstract void displayPerformance();
 
     @Override
